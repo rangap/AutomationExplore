@@ -11,6 +11,6 @@ public class TestBasicConcepts {
 	public void testmethod()
 	{
 		obj.testprint();
-		System.out.println("Annonation: @Test");
+		System.out.println("Sample Annonation: @Test");
 	}
 }
