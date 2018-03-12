@@ -11,6 +11,6 @@ public class TestBasicConcepts {
 	public void testmethod()
 	{
 		obj.testprint();
-		System.out.println("TRY");
+		System.out.println("Annonation: @Test");
 	}
 }
