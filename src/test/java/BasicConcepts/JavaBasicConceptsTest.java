@@ -9,38 +9,6 @@ public class JavaBasicConceptsTest {
     throw new RuntimeException("Test not implemented");
   }
 
-  @Test
-  public void mainString() {
-    throw new RuntimeException("Test not implemented");
-  }
 
-  @Test
-  public void mainString() {
-    throw new RuntimeException("Test not implemented");
-  }
 
-  @Test
-  public void mainString() {
-    throw new RuntimeException("Test not implemented");
-  }
-
-  @Test
-  public void testmethod() {
-    throw new RuntimeException("Test not implemented");
-  }
-
-  @Test
-  public void testmethod() {
-    throw new RuntimeException("Test not implemented");
-  }
-
-  @Test
-  public void testprint() {
-    throw new RuntimeException("Test not implemented");
-  }
-
-  @Test
-  public void testprint() {
-    throw new RuntimeException("Test not implemented");
-  }
 }
